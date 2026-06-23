@@ -1,0 +1,24 @@
+Personal use case:
+- Location: Sacramento, CA
+- Monthly payment target: under $300
+- Possible down payment: about $5,000
+- Likely financing: used car loan, maybe with cosigner
+- Credit: around 750, but thin loan history
+- Preferred vehicles: small SUVs, hatchbacks, wagons
+- Important: lots of cargo space with seats folded down
+- Avoid: sedans, older luxury money pits, high-mileage turbo SUVs, risky CVTs, salvage/rebuilt titles
+- Models worth considering:
+  - Honda CR-V
+  - Toyota RAV4
+  - Mazda CX-5
+  - Mazda CX-30, though cargo space is smaller
+  - Honda Fit
+  - Toyota Prius / Prius v
+  - Mazda3 hatchback
+  - Subaru Forester
+  - Subaru Outback
+  - Lexus RX 350 if price/payment works
+- Practical price target with $5k down:
+  - Comfortable: $17k-$19k sticker
+  - Possible stretch: about $20k
+  - Risky for under $300/month: $21k+

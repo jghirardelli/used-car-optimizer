@@ -1,0 +1,11 @@
+__pycache__/
+.pytest_cache/
+*.pyc
+.venv/
+output/*.csv
+output/*.md
+output/collection/
+data/dealer_inventory.csv
+data/incoming/browser_captures/*.json
+data/incoming/browser_snapshots/*.txt
+data/incoming/html_snapshots/*.html

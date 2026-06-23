@@ -1,0 +1,7 @@
+vin,year,make,model,trim,body_style,price,mileage,cargo_cuft,accidents,owners,short_second_owner,rental_fleet,title_issue,desired_body,model_key,notes
+3MVDMBDL2MM241517,2021,Mazda,CX-30,AWD,SUV,21000,40000,45.2,0,2,Yes,No,No,Yes,Mazda CX-30,"User-provided: $21k, 40k miles. Good car, smaller cargo."
+2HKRM3H57EH547399,2014,Honda,CR-V,EX FWD,SUV,16998,77230,70.9,0,1,No,No,No,Yes,Honda CR-V,"Earlier candidate; verify exact AutoCheck details."
+example,2015,Lexus,RX 350,Base,SUV,18000,83000,80.3,0,2,Yes,No,No,Yes,Lexus RX 350,"Placeholder price: edit to real listing price."
+,2018,Mazda,Mazda3,Hatchback,Hatchback,17000,85000,47.1,0,2,No,No,No,Yes,Mazda3 Hatchback,"Example row. Replace with real VIN/listing."
+,2016,Honda,Fit,EX,Hatchback,17000,70000,52.7,0,2,No,No,No,Yes,Honda Fit,"Example row. Great cargo for size."
+,2018,Mazda,CX-5,Sport,SUV,19000,86000,59.6,0,2,No,No,No,Yes,Mazda CX-5,"Example row. Replace with real listing."
