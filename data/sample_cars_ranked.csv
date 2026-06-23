@@ -1,0 +1,7 @@
+rank,vin,year,make,model,trim,body_style,price,mileage,estimated_apr,out_the_door_est,amount_financed,monthly_payment,reliability_score,space_score,total_score,verdict,notes
+1,,2018,Mazda,CX-5,Sport,SUV,19000,86000,6.5,21312.5,16312.5,274.21,84,82,88.5,BUY,Example row. Replace with real listing.
+2,,2018,Mazda,Mazda3,Hatchback,Hatchback,17000,85000,6.5,19137.5,14137.5,237.65,83,70,85.8,BUY,Example row. Replace with real VIN/listing.
+3,2HKRM3H57EH547399,2014,Honda,CR-V,EX FWD,SUV,16998,77230,8.0,19135.32,14135.32,247.84,88,90,85.7,BUY,Earlier candidate; verify exact AutoCheck details.
+4,,2016,Honda,Fit,EX,Hatchback,17000,70000,8.0,19137.5,14137.5,247.88,86,82,85.1,BUY,Example row. Great cargo for size.
+5,example,2015,Lexus,RX 350,Base,SUV,18000,83000,8.0,20225.0,15225.0,266.94,90,90,83.8,BUY,Placeholder price: edit to real listing price.
+6,3MVDMBDL2MM241517,2021,Mazda,CX-30,AWD,SUV,21000,40000,6.5,23487.5,18487.5,310.77,82,62,78.8,OVER BUDGET,"User-provided: $21k, 40k miles. Good car, smaller cargo."
